@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\kt8.1\kt8.1\bin\Debug\net8.0\kt8.1.exe
+C:\Users\User\source\repos\kt8.1\kt8.1\bin\Debug\net8.0\kt8.1.deps.json
+C:\Users\User\source\repos\kt8.1\kt8.1\bin\Debug\net8.0\kt8.1.runtimeconfig.json
+C:\Users\User\source\repos\kt8.1\kt8.1\bin\Debug\net8.0\kt8.1.dll
+C:\Users\User\source\repos\kt8.1\kt8.1\bin\Debug\net8.0\kt8.1.pdb
+C:\Users\User\source\repos\kt8.1\kt8.1\obj\Debug\net8.0\kt8.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\kt8.1\kt8.1\obj\Debug\net8.0\kt8.1.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\kt8.1\kt8.1\obj\Debug\net8.0\kt8.1.AssemblyInfo.cs
+C:\Users\User\source\repos\kt8.1\kt8.1\obj\Debug\net8.0\kt8.1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\kt8.1\kt8.1\obj\Debug\net8.0\kt8.1.dll
+C:\Users\User\source\repos\kt8.1\kt8.1\obj\Debug\net8.0\refint\kt8.1.dll
+C:\Users\User\source\repos\kt8.1\kt8.1\obj\Debug\net8.0\kt8.1.pdb
+C:\Users\User\source\repos\kt8.1\kt8.1\obj\Debug\net8.0\kt8.1.genruntimeconfig.cache
+C:\Users\User\source\repos\kt8.1\kt8.1\obj\Debug\net8.0\ref\kt8.1.dll

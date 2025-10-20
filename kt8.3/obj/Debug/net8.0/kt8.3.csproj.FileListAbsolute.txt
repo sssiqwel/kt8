@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\kt8.3\kt8.3\bin\Debug\net8.0\kt8.3.exe
+C:\Users\User\source\repos\kt8.3\kt8.3\bin\Debug\net8.0\kt8.3.deps.json
+C:\Users\User\source\repos\kt8.3\kt8.3\bin\Debug\net8.0\kt8.3.runtimeconfig.json
+C:\Users\User\source\repos\kt8.3\kt8.3\bin\Debug\net8.0\kt8.3.dll
+C:\Users\User\source\repos\kt8.3\kt8.3\bin\Debug\net8.0\kt8.3.pdb
+C:\Users\User\source\repos\kt8.3\kt8.3\obj\Debug\net8.0\kt8.3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\kt8.3\kt8.3\obj\Debug\net8.0\kt8.3.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\kt8.3\kt8.3\obj\Debug\net8.0\kt8.3.AssemblyInfo.cs
+C:\Users\User\source\repos\kt8.3\kt8.3\obj\Debug\net8.0\kt8.3.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\kt8.3\kt8.3\obj\Debug\net8.0\kt8.3.dll
+C:\Users\User\source\repos\kt8.3\kt8.3\obj\Debug\net8.0\refint\kt8.3.dll
+C:\Users\User\source\repos\kt8.3\kt8.3\obj\Debug\net8.0\kt8.3.pdb
+C:\Users\User\source\repos\kt8.3\kt8.3\obj\Debug\net8.0\kt8.3.genruntimeconfig.cache
+C:\Users\User\source\repos\kt8.3\kt8.3\obj\Debug\net8.0\ref\kt8.3.dll
